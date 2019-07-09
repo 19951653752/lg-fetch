@@ -1,4 +1,4 @@
-# lg-fetch polyfill
+# lg-fetch
 
 `fetch()` 函数用于请求接口,其中包含 fetch.get() / fetch.post() / fetch.push() / fetch.delete()。
 
