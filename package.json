@@ -1,0 +1,20 @@
+{
+  "name": "lg-fetch",
+  "version": "1.0.3",
+  "description": "制作属于自己的请求模块 廖港",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lg-fetch",
+    "fetch",
+    "axios",
+    "ajax"
+  ],
+  "author": "廖港",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
